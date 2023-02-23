@@ -3,7 +3,7 @@
 **rakshitmanishmalhotra/rakshitmanishmalhotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on UI Development, Javascript, Python and Java @Arcadia 
+- 🔭 I’m currently working on UI Development, Javascript, Python and Java @ArcadiaPower 
 - 🌱 I’m currently learning Python, React, Flutter
 - :man_technologist: Checkout my website https://rakshitmalhotra.netlify.app/
 - 💬 Ask me about Platform2, Java, Python, JavaScript
