@@ -9,6 +9,5 @@
 - 👨‍💻 Checkout my website https://rakshitmalhotra.netlify.app/
 - 💬 Ask me about Platform2, Java, Python, JavaScript
 - 📫 How to reach me: You can message me on my linkedin -> https://www.linkedin.com/in/rakshit-malhotra-849620169/
-- My Hobbies are: Cricket 🏏  (DC | Indian cricket team) , Soccer (Bayern München 🔴 1️⃣ | Real Madrid ⚪️ 2️⃣) ⚽️.
 
 ![Rakshit's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rakshitmanishmalhotra&count_private=true&show_icons=true&theme=tokyonight)
