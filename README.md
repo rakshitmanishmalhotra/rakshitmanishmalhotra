@@ -5,9 +5,5 @@
 -->
 
 - 🔭 I’m currently working on UI Development, Javascript, Python and Java @ArcadiaPower
-- 🌱 I’m currently learning Python, React, Flutter
-- 👨‍💻 Checkout my website https://rakshitmalhotra.netlify.app/
-- 💬 Ask me about Platform2, Java, Python, JavaScript
-- 📫 How to reach me: You can message me on my linkedin -> https://www.linkedin.com/in/rakshit-malhotra-849620169/
 
 ![Rakshit's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rakshitmanishmalhotra&count_private=true&show_icons=true&theme=tokyonight)
